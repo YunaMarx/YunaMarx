@@ -32,7 +32,7 @@ Love computer's world
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <a href="https://github.com/roya-sariri">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=roya-sariri&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>\
 <a href="https://github.com/roya-sariri">
