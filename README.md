@@ -36,6 +36,7 @@ Love computer's world
 <a href="https://github.com/roya-sariri">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=roya-sariri&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
 <br>
+<br>
 <a href="https://github.com/roya-sariri">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roya-sariri&theme=dark" />
 </a>
