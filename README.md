@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/roya-sariri">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=roya-sariri&show_icons=true&count_private=true&include_all_commits=true" /></a>
 <a href="https://github.com/roya-sariri">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roya-sariri&theme=onedark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roya-sariri&theme=cobalt" />
 </a>
