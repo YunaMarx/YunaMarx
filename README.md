@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About Me :
+Curious about life and science ,\
+Love computer's world ,\
+
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gisha.mohebi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/moheb_gisha) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gishamohebi) 
+
 <a href="https://github.com/roya-sariri">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=roya-sariri&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=roya-sariri&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>\
 <a href="https://github.com/roya-sariri">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roya-sariri&theme=dark" />
 </a>
