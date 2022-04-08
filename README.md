@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 About Me :
 Love computer's world
-<div align="center">
-  <a href="https://github.com/roya-sariri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roya-sariri&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roya-sariri-9bb76917a/) 
 
@@ -41,5 +38,5 @@ Love computer's world
 <br>
 <br>
 <a href="https://github.com/roya-sariri">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roya-sariri&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roya-sariri&layout=compact&langs_count=7&theme=dark"/>
 </a>
